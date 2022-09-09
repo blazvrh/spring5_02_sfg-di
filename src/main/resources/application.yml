@@ -1,6 +1,6 @@
 spring:
   profiles:
-    active: EN
+    active: EN, dev
 
 guru:
   username: YmlUserName
